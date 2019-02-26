@@ -1,0 +1,1 @@
+This only works on version 1.1.0 and newer.

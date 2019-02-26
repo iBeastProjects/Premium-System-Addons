@@ -1,0 +1,2 @@
+95001	ETC	icon/item/95001.tga
+
